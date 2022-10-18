@@ -6,6 +6,7 @@
  * main - Entry start
  *
  * Returns: Always 0 (success)
+ */
 int main(void)
 {
 	int n;
