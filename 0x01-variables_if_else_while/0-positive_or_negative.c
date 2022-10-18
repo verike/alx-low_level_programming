@@ -6,6 +6,9 @@
  * main - Entry start
  *
  * Returns: Always 0 (success)
+ *
+ * main - Prints a random number and states whether
+ *        it is positive, negative, or zero.
  */
 int main(void)
 {
