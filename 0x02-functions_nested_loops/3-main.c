@@ -11,17 +11,17 @@ int main(void)
 	
 	r = _islower('H');
 
-	putchar(r + '0');
+	_putchar(r + '0');
 
 	r = _islower('o');
 
-	putchar(r + '0');
+	_putchar(r + '0');
 
 	r = _islower('r');
 
-	putchar(r + '0');
+	_putchar(r + '0');
 
-	putchar('\n');
+	_putchar('\n');
 
 	return (0);
 }
