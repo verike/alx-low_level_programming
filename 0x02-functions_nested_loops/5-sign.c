@@ -1,7 +1,7 @@
 #include "main.h"
 
 /*
- * print_sign - Checks for polarity
+ * print_sign - Checks for character input polarity
  *
  * @n: only argument passed in
  *
