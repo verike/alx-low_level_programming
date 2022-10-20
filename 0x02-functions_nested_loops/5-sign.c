@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * print_sign - Checks for character input polarity
  *
  * @n: only argument passed in
@@ -16,7 +16,7 @@ int print_sign(int n)
 	}
 	else if (n == 0)
 	{
-		return ((0) && _putchar('0'));
+		return ((0) && _putchar('\0'));
 
 	}
 	else if (n < 0)
