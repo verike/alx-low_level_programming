@@ -4,6 +4,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* Prototype for print_remaining_days function */
+void print_remaining_days(int month, int day, int year);
+
+/* Prototype for convert_day function */
+int convert_day(int month, int day);
+
 /* Prototype for the 2-largest_number function in 2-largest_number.c file */
 int largest_number(int a, int b, int c);
 
