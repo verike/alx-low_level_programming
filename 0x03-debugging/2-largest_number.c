@@ -10,11 +10,11 @@
 
 int largest_number(int a, int b, int c)
 {
-	a = int abs(a);
+	a = abs(a);
 
-	b = int abs(b);
+	b = abs(b);
 
-	c = int abs(c);
+	c = abs(c);
 	
 	int largest;
 
