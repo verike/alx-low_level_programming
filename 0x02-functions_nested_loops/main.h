@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/*Prototype for print_sign function in 5-main.c file*/
+int print_sign(int c);
+
 /*prototype for _isalpha function in 4-main.c file*/
 int _isalpha(int c);
 
