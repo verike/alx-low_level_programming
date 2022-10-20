@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/*prototype for _isalpha function in 4-main.c file*/
+int _isalpha(int c);
+
 /*Prototype for _islower function in 3-main.c file*/
 int _islower(int c);
 
