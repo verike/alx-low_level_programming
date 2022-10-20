@@ -2,6 +2,10 @@
 
 /**
  * _islower - checks if the return value is 1 or 0
+ *
+ * @c: only argument passed
+ *
+ * Return: 1 || 0 for output
  */
 int _islower(int c)
 {
