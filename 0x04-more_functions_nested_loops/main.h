@@ -4,6 +4,12 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/* Prototype for _putchar function in _putchar.c */
+int _putchar(char c);
+
+/* Prototype for print_numbers function in 3-main.c */
+void print_numbers(void);
+
 /* Prototype for mul function in mul-main.c task */
 int mul(int a, int b);
 
