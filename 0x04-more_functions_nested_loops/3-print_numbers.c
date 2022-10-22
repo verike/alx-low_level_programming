@@ -7,11 +7,11 @@
  */
 void print_numbers(void)
 {
-	int result = 0;
+	char result ='0';
 
-	while (result < 10)
+	while (result <= '9')
 	{
-		printf("%d",result);
+		_putchar(result);
 
 		result++;
 	
