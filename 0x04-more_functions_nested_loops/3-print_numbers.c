@@ -7,14 +7,14 @@
  */
 void print_numbers(void)
 {
-	char result ='0';
+	char result = '0';
 
 	while (result <= '9')
 	{
 		_putchar(result);
 
 		result++;
-	
+
 	}
 	_putchar('\n');
 
