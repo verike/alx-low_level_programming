@@ -1,6 +1,10 @@
 #pragma once
 #include <stdio.h>
 #include <ctype.h>
+#include <stdlib.h>
+
+/* Prototype for _abs function in 6-main.c file */
+int _abs(int);
 
 /*Prototype for print_sign function in 5-main.c file*/
 int print_sign(int c);
