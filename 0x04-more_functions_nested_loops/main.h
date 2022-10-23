@@ -4,6 +4,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/* Prototype for print_most_numbers in 4-print_most_numbers.c */
+void print_most_numbers(void);
+
 /* Prototype for _putchar function in _putchar.c */
 int _putchar(char c);
 
