@@ -3,6 +3,9 @@
 #include <ctype.h>
 #include <stdlib.h>
 
+/* Prototype for add function in 10-add.c file */
+int add(int, int);
+
 /* Prototype for print_last_digit function in 7-main.c */
 int print_last_digit(int);
 
