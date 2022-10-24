@@ -3,6 +3,12 @@
 #include <ctype.h>
 #include <stdlib.h>
 
+/* Prototype for print_last_digit function in 7-main.c */
+int print_last_digit(int);
+
+/* Prototype for _putchar function */
+int _putchar(char c);
+
 /* Prototype for _abs function in 6-main.c file */
 int _abs(int);
 
