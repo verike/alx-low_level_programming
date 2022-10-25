@@ -5,6 +5,12 @@
 #include <stdlib.h>
 #include <string.h>
 
+/* Prototype for _puts function in 3-main.c file */
+void _puts(char *str);
+
+/* Prototype for _putchar function in _putchar.c file */
+int _putchar(char c);
+
 /* Prototype for _strlen function in 2-strlen.c file */
 int _strlen(char *s);
 
