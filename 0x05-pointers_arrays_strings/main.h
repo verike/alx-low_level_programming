@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 /* Prototype for _strlen function in 2-strlen.c file */
 int _strlen(char *s);
