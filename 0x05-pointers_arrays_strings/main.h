@@ -5,6 +5,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+/* Prototypr for print_rev function in 4-main.c file */
+void print_rev(char *s);
+
 /* Prototype for _puts function in 3-main.c file */
 void _puts(char *str);
 
