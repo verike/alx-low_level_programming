@@ -5,7 +5,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-/* Prototype for puts2 */
+/* Prototype for puts_half function in 7-main.c file */
+void puts_half(char *str);
+
+/* Prototype for puts2 function in 6-main.c file */
 void puts2(char *str);
 
 /* Prototype for rev_string function in 5-main.c file */
