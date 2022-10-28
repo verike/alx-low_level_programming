@@ -5,7 +5,6 @@
   * @str: String to pring
   * Return: void
   */
-
 void puts2(char *str)
 {
 	int count;
