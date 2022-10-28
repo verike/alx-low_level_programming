@@ -5,7 +5,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-/* Prototypr for print_rev function in 4-main.c file */
+/* Prototype for rev_string function in 5-main.c file */
+void rev_string(char *s);
+
+/* Prototype for print_rev function in 4-main.c file */
 void print_rev(char *s);
 
 /* Prototype for _puts function in 3-main.c file */
