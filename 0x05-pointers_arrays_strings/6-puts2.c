@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
-  * puts - Prints one character out of every two.
+  * puts2 - Prints one character out of every two.
+  *
   * @str: String to pring
+  *
   * Return: void
   */
 void puts2(char *str)
