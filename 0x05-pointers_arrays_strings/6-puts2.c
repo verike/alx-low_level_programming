@@ -1,22 +1,23 @@
 #include "main.h"
 
 /**
-  * _puts - Prints a string, followed by a new line to stdout.
+  * puts - Prints one character out of every two.
   * @str: String to pring
   * Return: void
   */
 void puts2(char *str)
 {
-	int count;
+	int i = 0;
 
-	for (count = 0; count >= 0; count++)
+	for (; str[i] != '\0'; i++)
 	{
-		if (str[count] == '\0')
-		{
-			_putchar('\n');
-			break;
-		}
+		if ((i % 2) == 0)
+			_putchar(str[i]);
 
-		_putchar(str[count]);
+		else
+			continue;
+
 	}
+	_putchar('\n');
+
 }
