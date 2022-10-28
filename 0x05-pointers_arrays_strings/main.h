@@ -5,6 +5,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+/* Prototype for puts2 */
+void puts2(char *str);
+
 /* Prototype for rev_string function in 5-main.c file */
 void rev_string(char *s);
 
