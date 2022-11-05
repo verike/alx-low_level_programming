@@ -4,6 +4,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/* Prototype for print_line function in 6-print_line.c */
+void print_line(int n);
+
 /* Prototype for more_numbers in 5-more_numbers.c */
 void more_numbers(void);
 
