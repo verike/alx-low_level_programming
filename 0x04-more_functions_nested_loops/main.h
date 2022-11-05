@@ -4,6 +4,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/* Prototype for more_numbers in 5-more_numbers.c */
+void more_numbers(void);
+
 /* Prototype for print_most_numbers in 4-print_most_numbers.c */
 void print_most_numbers(void);
 
