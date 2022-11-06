@@ -4,6 +4,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/* Prototype fpr print_diagonal function in 7-print_diagonal */
+void print_diagonal(int n);
+
 /* Prototype for print_line function in 6-print_line.c */
 void print_line(int n);
 
