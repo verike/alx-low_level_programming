@@ -3,11 +3,13 @@
 
 #include <stdio.h>
 #include <ctype.h>
+/* Prototype for fizz_buzz function in 9-main.c */
+void fizz_buzz(void);
 
 /* Prototype for print_square function in 8-main.c */
 void print_square(int size);
 
-/* Prototype fpr print_diagonal function in 7-print_diagonal */
+/* Prototype for print_diagonal function in 7-print_diagonal */
 void print_diagonal(int n);
 
 /* Prototype for print_line function in 6-print_line.c */
