@@ -8,22 +8,22 @@ void fizz_buzz(void)
 	{
 		if ((num % 15) == 0)
 		{
-			printf("%i FizzBuzz\n", num);
+			printf("FizzBuzz ");
 
 		}
 		else if ((num % 3) == 0)
 		{
-			printf("%i Fizz\n", num);
+			printf("Fizz ");
 
 		}
 		else if ((num % 5) == 0)
 		{
-			printf("%i Buzz\n", num);
+			printf("Buzz ");
 
 		}
 		else
 		{
-			printf("%i \n", num);
+			printf("%i ", num);
 
 		}
 	}
