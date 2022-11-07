@@ -1,9 +1,11 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
- * fizz_buzz - Prints numbers from 1 - 100
+ * main - Entry point
+ *
+ * Return: Always 0
  */
-void fizz_buzz(void)
+int main(void)
 {
 	int num;
 
@@ -35,5 +37,7 @@ void fizz_buzz(void)
 		}
 	}
 	printf("\n");
+
+	return (0);
 
 }
