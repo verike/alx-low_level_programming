@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * print_diagonal - Draws a diagonal line
+ *
+ * @n: argument given as dimension for line
+ */
 void print_diagonal(int n)
 {
 	int i, j;
@@ -16,7 +21,7 @@ void print_diagonal(int n)
 				{
 
 					_putchar(' ');
-				       
+
 					j--;
 
 				}
