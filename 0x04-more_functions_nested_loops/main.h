@@ -4,6 +4,9 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/* Prototype for print_square function in 8-main.c */
+void print_square(int size);
+
 /* Prototype fpr print_diagonal function in 7-print_diagonal */
 void print_diagonal(int n);
 
