@@ -9,7 +9,11 @@ void fizz_buzz(void)
 
 	for (num = 1; num <= 100; num++)
 	{
-		if ((num % 15) == 0)
+		if (num == 100)
+		{
+			printf("Buzz");
+		}
+		else if ((num % 15) == 0)
 		{
 			printf("FizzBuzz ");
 
