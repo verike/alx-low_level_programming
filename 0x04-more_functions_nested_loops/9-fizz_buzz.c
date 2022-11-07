@@ -1,5 +1,8 @@
 #include "main.h"
 
+/**
+ * fizz_buzz - Prints numbers from 1 - 100
+ */
 void fizz_buzz(void)
 {
 	int num;
@@ -27,4 +30,6 @@ void fizz_buzz(void)
 
 		}
 	}
+	printf("\n");
+
 }
