@@ -3,6 +3,9 @@
 
 #include <stdio.h>
 #include <ctype.h>
+
+/* Prototype for print_triangle function in 10-main.c */
+void print_triangle(int size);
 /* Prototype for fizz_buzz function in 9-main.c */
 void fizz_buzz(void);
 
