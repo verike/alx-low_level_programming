@@ -1,5 +1,10 @@
 #include "main.h"
 
+/**
+ * print_triangle - Draws a triangle
+ *
+ * @size: Argument passed into the function as dimension
+ */
 void print_triangle(int size)
 {
 	int a = 1, b, c;
