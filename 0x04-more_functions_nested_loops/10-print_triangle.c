@@ -14,7 +14,7 @@ void print_triangle(int size)
 		while (a <= size)
 		{
 			b = size - a;
-			
+
 			while (b > 0)
 			{
 				_putchar(' ');
