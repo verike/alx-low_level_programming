@@ -5,6 +5,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+/* Prototype for 8-print_arrays.c*/
+void print_array(int *a, int n);
+
 /* Prototype for puts_half function in 7-main.c file */
 void puts_half(char *str);
 
