@@ -5,6 +5,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+/* Prototype for _strcpy function in 9-strcpy.c */
+char *_strcpy(char *dest, char *src);
+
 /* Prototype for 8-print_arrays.c*/
 void print_array(int *a, int n);
 
