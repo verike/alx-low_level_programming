@@ -5,6 +5,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+/* Prototype for _atoi function in 100-main.c */
+int _atoi(char *s);
+
 /* Prototype for _strcpy function in 9-strcpy.c */
 char *_strcpy(char *dest, char *src);
 
